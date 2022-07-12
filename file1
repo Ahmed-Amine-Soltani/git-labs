@@ -1,3 +1,5 @@
 git diff
 git diff HEAD
-staged
+git diff staged
+git diff not staged
+
